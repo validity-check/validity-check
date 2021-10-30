@@ -3,6 +3,10 @@
 # Hello
 I'm another guy sat behind his keyboard too much. I'll add more to this page sometime hopefully.
 
+## Trophies
+Some of these stats aren't great, and I'm hoping to improve them, but here's some honesty for you:
+![validity-check Trophies](https://github-profile-trophy.vercel.app/?username=validity-check&theme=discord&row=2&column=3)
+
 ## Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Installing and Getting Started with the Surface Duo Emulator](https://www.youtube.com/watch?v=GsB0lkOkwLQ)
