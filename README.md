@@ -1,4 +1,6 @@
-![Profile Banner](https://user-images.githubusercontent.com/63739210/139320192-452fbb26-667e-4815-9d2e-b554041cd813.jpeg)
+## ![Profile Banner](https://user-images.githubusercontent.com/63739210/139320192-452fbb26-667e-4815-9d2e-b554041cd813.jpeg)
+
+---
 
 # Hello
 
@@ -23,5 +25,11 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 - [Pub.dev Packages Explained | Trailer](https://www.youtube.com/watch?v=NwEugiqtxN0)
 <!-- YOUTUBE:END -->
 - [more...](https://www.youtube.com/channel/UCzo8BxPlwBZlqnM5qIj2bZg)
+
+## Recent Github Activity
+
+<!--START_SECTION:activity-->
+
+## <!--END_SECTION:activity-->
 
 ![camel banner](https://user-images.githubusercontent.com/63739210/139310308-41967681-ac0f-4fec-aab2-a4481078cca9.jpeg)
