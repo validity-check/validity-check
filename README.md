@@ -29,11 +29,11 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/validity-check/waffle/pull/3) in [validity-check/waffle](https://github.com/validity-check/waffle)
-2. 💪 Opened PR [#3](https://github.com/validity-check/waffle/pull/3) in [validity-check/waffle](https://github.com/validity-check/waffle)
-3. 🎉 Merged PR [#2](https://github.com/validity-check/waffle/pull/2) in [validity-check/waffle](https://github.com/validity-check/waffle)
-4. 💪 Opened PR [#2](https://github.com/validity-check/waffle/pull/2) in [validity-check/waffle](https://github.com/validity-check/waffle)
-5. 🗣 Commented on [#20](https://github.com/Muslim-Coders-Organisation/Sheikh-Bot/issues/20) in [Muslim-Coders-Organisation/Sheikh-Bot](https://github.com/Muslim-Coders-Organisation/Sheikh-Bot)
+1. 🗣 Commented on [#133](https://github.com/electron/electronjs.org-new/issues/133) in [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new)
+2. 🎉 Merged PR [#3](https://github.com/validity-check/waffle/pull/3) in [validity-check/waffle](https://github.com/validity-check/waffle)
+3. 💪 Opened PR [#3](https://github.com/validity-check/waffle/pull/3) in [validity-check/waffle](https://github.com/validity-check/waffle)
+4. 🎉 Merged PR [#2](https://github.com/validity-check/waffle/pull/2) in [validity-check/waffle](https://github.com/validity-check/waffle)
+5. 💪 Opened PR [#2](https://github.com/validity-check/waffle/pull/2) in [validity-check/waffle](https://github.com/validity-check/waffle)
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
