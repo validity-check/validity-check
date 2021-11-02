@@ -1,9 +1,11 @@
-![nice-banner](https://user-images.githubusercontent.com/63739210/139320192-452fbb26-667e-4815-9d2e-b554041cd813.jpeg)
+![Profile Banner](https://user-images.githubusercontent.com/63739210/139320192-452fbb26-667e-4815-9d2e-b554041cd813.jpeg)
 
 # Hello
+
 I'm another guy sat behind his keyboard too much. I'll add more to this page sometime hopefully.
 
 ## Statistics & Trophies
+
 Some of these stats aren't great, and I'm hoping to improve them, but here's some honesty for you:
 ![validity-check Trophies](https://github-profile-trophy.vercel.app/?username=validity-check&theme=discord&row=1&column=6)
 
@@ -11,7 +13,9 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=validity-check&layout=compact&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Youtube Videos
+
 <!-- YOUTUBE:START -->
+
 - [Installing and Getting Started with the Surface Duo Emulator](https://www.youtube.com/watch?v=GsB0lkOkwLQ)
 - [Using translator in Dart | Pub.dev Packages Explained](https://www.youtube.com/watch?v=FoVB7vPOrDg)
 - [Using animated_text_kit in Flutter | Pub.dev Packages Explained](https://www.youtube.com/watch?v=dLI_CX4Un4s)
