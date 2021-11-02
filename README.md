@@ -17,7 +17,6 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Installing and Getting Started with the Surface Duo Emulator](https://www.youtube.com/watch?v=GsB0lkOkwLQ)
 - [Using translator in Dart | Pub.dev Packages Explained](https://www.youtube.com/watch?v=FoVB7vPOrDg)
 - [Using animated_text_kit in Flutter | Pub.dev Packages Explained](https://www.youtube.com/watch?v=dLI_CX4Un4s)
