@@ -29,10 +29,10 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#133](https://github.com/electron/electronjs.org-new/issues/133) in [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new)
-2. 🎉 Merged PR [#3](https://github.com/validity-check/waffle/pull/3) in [validity-check/waffle](https://github.com/validity-check/waffle)
-3. 💪 Opened PR [#3](https://github.com/validity-check/waffle/pull/3) in [validity-check/waffle](https://github.com/validity-check/waffle)
-4. 🎉 Merged PR [#2](https://github.com/validity-check/waffle/pull/2) in [validity-check/waffle](https://github.com/validity-check/waffle)
-5. 💪 Opened PR [#2](https://github.com/validity-check/waffle/pull/2) in [validity-check/waffle](https://github.com/validity-check/waffle)
+2. 🗣 Commented on [#133](https://github.com/electron/electronjs.org-new/issues/133) in [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new)
+3. 🎉 Merged PR [#3](https://github.com/validity-check/waffle/pull/3) in [validity-check/waffle](https://github.com/validity-check/waffle)
+4. 💪 Opened PR [#3](https://github.com/validity-check/waffle/pull/3) in [validity-check/waffle](https://github.com/validity-check/waffle)
+5. 🎉 Merged PR [#2](https://github.com/validity-check/waffle/pull/2) in [validity-check/waffle](https://github.com/validity-check/waffle)
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
