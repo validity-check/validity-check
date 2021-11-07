@@ -37,4 +37,6 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 
 ## <!--END_SECTION:activity-->
 
-![camel banner](https://user-images.githubusercontent.com/63739210/139310308-41967681-ac0f-4fec-aab2-a4481078cca9.jpeg)
+---
+
+![also nice banner](https://user-images.githubusercontent.com/63739210/140661604-16b978f1-6d00-4a96-b02f-936cbb143a95.jpeg)
