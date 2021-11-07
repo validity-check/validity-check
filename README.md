@@ -9,7 +9,7 @@ I'm another guy sat behind his keyboard too much. I'll add more to this page som
 ## Statistics & Trophies
 
 Some of these stats aren't great, and I'm hoping to improve them, but here's some honesty for you:
-![validity-check Trophies](https://github-profile-trophy.vercel.app/?username=validity-check&theme=discord&row=1&column=6)
+![validity-check Trophies](https://github-profile-trophy.vercel.app/?username=validity-check&theme=discord)
 
 [![validity-check's GitHub stats](https://github-readme-stats.vercel.app/api?username=validity-check&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=validity-check&layout=compact&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
