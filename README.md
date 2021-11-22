@@ -1,4 +1,5 @@
 ## ![Profile Banner](https://user-images.githubusercontent.com/63739210/139320192-452fbb26-667e-4815-9d2e-b554041cd813.jpeg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=validity-check&label=Profile%20views&color=0e75b6&style=flat" alt="validity-check" /> </p>
 
 ---
 
@@ -9,10 +10,16 @@ I'm another guy sat behind his keyboard too much. I'll add more to this page som
 ## Statistics & Trophies
 
 Some of these stats aren't great, and I'm hoping to improve them, but here's some honesty for you:
-![validity-check Trophies](https://github-profile-trophy.vercel.app/?username=validity-check&theme=discord)
 
-[![validity-check's GitHub stats](https://github-readme-stats.vercel.app/api?username=validity-check&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=validity-check&layout=compact&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=validity-check&row=2&column=3&theme=discord" alt="validity-check" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=validity-check&theme=dark&langs_count=20" alt="validity-check" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=validity-check&count_private=true&show_icons=true&theme=dark&locale=en" alt="validity-check" /></p>
+
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=validity-check&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="validity-check" /></p>
+
+<br />
 
 ## Latest Youtube Videos
 
@@ -36,6 +43,13 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/validitycheck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="validitycheck" height="30" width="40" /></a>
+<a href="https://twitter.com/validitycheck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="validitycheck" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzo8BxPlwBZlqnM5qIj2bZg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczo8bxplwbzlqnm5qij2bzg" height="30" width="40" /></a>
+</p>
 
 ---
 
