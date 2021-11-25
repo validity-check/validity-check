@@ -17,7 +17,7 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=validity-check&count_private=true&show_icons=true&theme=dark&locale=en" alt="validity-check" /></p>
 
-<p>&nsbp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=validity-check&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="validity-check" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=validity-check&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="validity-check" /></p>
 
 <br />
 
