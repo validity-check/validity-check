@@ -17,7 +17,7 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=validity-check&count_private=true&show_icons=true&theme=dark&locale=en" alt="validity-check" /></p>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=validity-check&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="validity-check" /></p>
+<p>&nsbp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=validity-check&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="validity-check" /></p>
 
 <br />
 
@@ -49,6 +49,7 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 <a href="https://dev.to/validitycheck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="validitycheck" height="30" width="40" /></a>
 <a href="https://twitter.com/validitycheck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="validitycheck" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCzo8BxPlwBZlqnM5qIj2bZg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczo8bxplwbzlqnm5qij2bzg" height="30" width="40" /></a>
+<a href="https://twitch.tv/validitycheck" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63739210/143502370-07feaa8e-b977-4ae6-8c4b-99791a96c57a.png" alt="validitycheck" height="30" /></a>
 </p>
 
 ---
