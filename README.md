@@ -35,11 +35,11 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/validity-check/zdblog/issues/10) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+1. ❗️ Opened issue [#11](https://github.com/validity-check/zdblog/issues/11) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
 2. 🗣 Commented on [#10](https://github.com/validity-check/zdblog/issues/10) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-3. ❗️ Opened issue [#10](https://github.com/validity-check/zdblog/issues/10) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-4. 🗣 Commented on [#2](https://github.com/validity-check/silly-site-challenge/issues/2) in [validity-check/silly-site-challenge](https://github.com/validity-check/silly-site-challenge)
-5. ❗️ Opened issue [#9](https://github.com/validity-check/zdblog/issues/9) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+3. 🗣 Commented on [#10](https://github.com/validity-check/zdblog/issues/10) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+4. ❗️ Opened issue [#10](https://github.com/validity-check/zdblog/issues/10) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+5. 🗣 Commented on [#2](https://github.com/validity-check/silly-site-challenge/issues/2) in [validity-check/silly-site-challenge](https://github.com/validity-check/silly-site-challenge)
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
