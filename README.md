@@ -48,7 +48,7 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 <p align="left">
 <a href="https://dev.to/validitycheck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="validitycheck" height="30" width="40" /></a>
 <a href="https://twitter.com/validitycheck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="validitycheck" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCzo8BxPlwBZlqnM5qIj2bZg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczo8bxplwbzlqnm5qij2bzg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzo8BxPlwBZlqnM5qIj2bZg?sub_confirmation=1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczo8bxplwbzlqnm5qij2bzg" height="30" width="40" /></a>
 <a href="https://twitch.tv/validitycheck" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63739210/143502370-07feaa8e-b977-4ae6-8c4b-99791a96c57a.png" alt="validitycheck" height="30" /></a>
 </p>
 
