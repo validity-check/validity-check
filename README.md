@@ -35,11 +35,11 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/validity-check/zdblog/pull/19) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-2. ❗️ Closed issue [#13](https://github.com/validity-check/zdblog/issues/13) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-3. 🎉 Merged PR [#18](https://github.com/validity-check/zdblog/pull/18) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-4. 💪 Opened PR [#18](https://github.com/validity-check/zdblog/pull/18) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-5. ❗️ Closed issue [#16](https://github.com/validity-check/zdblog/issues/16) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+1. 🎉 Merged PR [#19](https://github.com/validity-check/zdblog/pull/19) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+2. ❗️ Closed issue [#3](https://github.com/validity-check/zdblog/issues/3) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+3. ❗️ Opened issue [#20](https://github.com/validity-check/zdblog/issues/20) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+4. 💪 Opened PR [#19](https://github.com/validity-check/zdblog/pull/19) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+5. ❗️ Closed issue [#13](https://github.com/validity-check/zdblog/issues/13) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
