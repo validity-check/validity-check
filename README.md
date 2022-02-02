@@ -35,11 +35,11 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#3](https://github.com/validity-check/zdblog/issues/3) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-2. ❗️ Opened issue [#25](https://github.com/validity-check/zdblog/issues/25) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-3. ❗️ Opened issue [#24](https://github.com/validity-check/zdblog/issues/24) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-4. ❗️ Opened issue [#23](https://github.com/validity-check/zdblog/issues/23) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-5. ❗️ Opened issue [#22](https://github.com/validity-check/zdblog/issues/22) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+1. ❗️ Closed issue [#2](https://github.com/validity-check/silly-site-challenge/issues/2) in [validity-check/silly-site-challenge](https://github.com/validity-check/silly-site-challenge)
+2. ❗️ Reopened issue [#3](https://github.com/validity-check/zdblog/issues/3) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+3. ❗️ Opened issue [#25](https://github.com/validity-check/zdblog/issues/25) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+4. ❗️ Opened issue [#24](https://github.com/validity-check/zdblog/issues/24) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+5. ❗️ Opened issue [#23](https://github.com/validity-check/zdblog/issues/23) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
