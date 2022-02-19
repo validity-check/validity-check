@@ -27,7 +27,6 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Using logger in Dart | Pub.dev Packages Explained](https://www.youtube.com/watch?v=chhUJPfcSbg)
 - [Change the Package Manager in Angular | Random Musings 1 #Shorts](https://www.youtube.com/watch?v=URnm_W-QFuE)
 - [Installing and Getting Started with the Surface Duo Emulator](https://www.youtube.com/watch?v=GsB0lkOkwLQ)
