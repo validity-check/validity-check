@@ -1,4 +1,5 @@
 ## ![Profile Banner](https://user-images.githubusercontent.com/63739210/139320192-452fbb26-667e-4815-9d2e-b554041cd813.jpeg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=validity-check&label=Profile%20views&color=0e75b6&style=flat" alt="validity-check" /> </p>
 
 ---
@@ -10,6 +11,8 @@ I'm another guy sat behind his keyboard too much. I'll add more to this page som
 ## Statistics & Trophies
 
 Some of these stats aren't great, and I'm hoping to improve them, but here's some honesty for you:
+
+![Snake game based on contribution graph](https://raw.githubusercontent.com/validity-check/validity-check/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=validity-check&row=2&column=3&theme=discord" alt="validity-check" /></a> </p>
 
@@ -24,6 +27,7 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Using logger in Dart | Pub.dev Packages Explained](https://www.youtube.com/watch?v=chhUJPfcSbg)
 - [Change the Package Manager in Angular | Random Musings 1 #Shorts](https://www.youtube.com/watch?v=URnm_W-QFuE)
 - [Installing and Getting Started with the Surface Duo Emulator](https://www.youtube.com/watch?v=GsB0lkOkwLQ)
@@ -35,6 +39,7 @@ Some of these stats aren't great, and I'm hoping to improve them, but here's som
 ## Recent Github Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#6](https://github.com/validity-check/waffle/pull/6) in [validity-check/waffle](https://github.com/validity-check/waffle)
 2. 💪 Opened PR [#6](https://github.com/validity-check/waffle/pull/6) in [validity-check/waffle](https://github.com/validity-check/waffle)
 3. ❗️ Closed issue [#2](https://github.com/validity-check/silly-site-challenge/issues/2) in [validity-check/silly-site-challenge](https://github.com/validity-check/silly-site-challenge)
