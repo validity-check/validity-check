@@ -10,8 +10,6 @@ I'm another guy sat behind his keyboard too much. I'll add more to this page som
 
 ## Statistics & Trophies
 
-Some of these stats aren't great, and I'm hoping to improve them, but here's some honesty for you:
-
 ![Snake game based on contribution graph](https://raw.githubusercontent.com/validity-check/validity-check/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=validity-check&row=2&column=3&theme=discord" alt="validity-check" /></a> </p>
