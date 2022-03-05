@@ -36,11 +36,11 @@ I'm another guy sat behind his keyboard too much. I'll add more to this page som
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/validity-check/waffle/pull/6) in [validity-check/waffle](https://github.com/validity-check/waffle)
-2. 💪 Opened PR [#6](https://github.com/validity-check/waffle/pull/6) in [validity-check/waffle](https://github.com/validity-check/waffle)
-3. ❗️ Closed issue [#2](https://github.com/validity-check/silly-site-challenge/issues/2) in [validity-check/silly-site-challenge](https://github.com/validity-check/silly-site-challenge)
-4. ❗️ Reopened issue [#3](https://github.com/validity-check/zdblog/issues/3) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
-5. ❗️ Opened issue [#25](https://github.com/validity-check/zdblog/issues/25) in [validity-check/zdblog](https://github.com/validity-check/zdblog)
+1. 🎉 Merged PR [#2](https://github.com/validity-check/validity-check/pull/2) in [validity-check/validity-check](https://github.com/validity-check/validity-check)
+2. 💪 Opened PR [#2](https://github.com/validity-check/validity-check/pull/2) in [validity-check/validity-check](https://github.com/validity-check/validity-check)
+3. 🎉 Merged PR [#1](https://github.com/validity-check/validity-check/pull/1) in [validity-check/validity-check](https://github.com/validity-check/validity-check)
+4. 🗣 Commented on [#1](https://github.com/validity-check/validity-check/issues/1) in [validity-check/validity-check](https://github.com/validity-check/validity-check)
+5. 💪 Opened PR [#1](https://github.com/validity-check/validity-check/pull/1) in [validity-check/validity-check](https://github.com/validity-check/validity-check)
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
