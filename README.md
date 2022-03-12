@@ -10,6 +10,8 @@ I'm another guy sat behind his keyboard too much. I'll add more to this page som
 
 ## Statistics & Trophies
 
+![Snake game based on contribution graph](https://raw.githubusercontent.com/validity-check/validity-check/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=validity-check&row=2&column=3&theme=discord" alt="validity-check" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=validity-check&theme=dark&langs_count=20" alt="validity-check" /></p>
@@ -23,6 +25,7 @@ I'm another guy sat behind his keyboard too much. I'll add more to this page som
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Using logger in Dart | Pub.dev Packages Explained](https://www.youtube.com/watch?v=chhUJPfcSbg)
 - [Change the Package Manager in Angular | Random Musings 1 #Shorts](https://www.youtube.com/watch?v=URnm_W-QFuE)
 - [Installing and Getting Started with the Surface Duo Emulator](https://www.youtube.com/watch?v=GsB0lkOkwLQ)
