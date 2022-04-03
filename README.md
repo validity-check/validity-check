@@ -37,11 +37,11 @@ I'm another guy sat behind his keyboard too much. I'll add more to this page som
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#27](https://github.com/validity-check/AIGames/issues/27) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
-2. 🎉 Merged PR [#33](https://github.com/validity-check/AIGames/pull/33) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
-3. 💪 Opened PR [#33](https://github.com/validity-check/AIGames/pull/33) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
-4. 🎉 Merged PR [#5](https://github.com/validity-check/node-express-backend/pull/5) in [validity-check/node-express-backend](https://github.com/validity-check/node-express-backend)
-5. 🎉 Merged PR [#4](https://github.com/validity-check/node-express-backend/pull/4) in [validity-check/node-express-backend](https://github.com/validity-check/node-express-backend)
+1. 🎉 Merged PR [#34](https://github.com/validity-check/AIGames/pull/34) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
+2. ❗️ Closed issue [#22](https://github.com/validity-check/AIGames/issues/22) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
+3. 💪 Opened PR [#34](https://github.com/validity-check/AIGames/pull/34) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
+4. ❗️ Closed issue [#27](https://github.com/validity-check/AIGames/issues/27) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
+5. 🎉 Merged PR [#33](https://github.com/validity-check/AIGames/pull/33) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
