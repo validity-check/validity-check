@@ -24,11 +24,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#34](https://github.com/validity-check/AIGames/pull/34) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
-2. ❗️ Closed issue [#22](https://github.com/validity-check/AIGames/issues/22) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
-3. 💪 Opened PR [#34](https://github.com/validity-check/AIGames/pull/34) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
-4. ❗️ Closed issue [#27](https://github.com/validity-check/AIGames/issues/27) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
-5. 🎉 Merged PR [#33](https://github.com/validity-check/AIGames/pull/33) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
+1. 🎉 Merged PR [#3](https://github.com/validity-check/validity-check/pull/3) in [validity-check/validity-check](https://github.com/validity-check/validity-check)
+2. 💪 Opened PR [#3](https://github.com/validity-check/validity-check/pull/3) in [validity-check/validity-check](https://github.com/validity-check/validity-check)
+3. 🎉 Merged PR [#34](https://github.com/validity-check/AIGames/pull/34) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
+4. ❗️ Closed issue [#22](https://github.com/validity-check/AIGames/issues/22) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
+5. 💪 Opened PR [#34](https://github.com/validity-check/AIGames/pull/34) in [validity-check/AIGames](https://github.com/validity-check/AIGames)
 <!--END_SECTION:activity-->
 
 ## <!--END_SECTION:activity-->
