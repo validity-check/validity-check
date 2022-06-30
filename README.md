@@ -6,8 +6,6 @@
 
 # Hello
 
-I'm another guy sat behind his keyboard too much. I'll add more to this page sometime hopefully.
-
 ## Statistics & Trophies
 
 ![Snake game based on contribution graph](https://raw.githubusercontent.com/validity-check/validity-check/output/github-contribution-grid-snake.svg)
